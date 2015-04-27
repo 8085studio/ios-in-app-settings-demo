@@ -17,3 +17,7 @@ $ pod install
 
 ## 開啟專案
 改以`InAppSettingsDemo.xcworkspace`檔來開啟專案
+
+## 參考來源
+ - [InAppSettingsKit Github](https://github.com/futuretap/InAppSettingsKit)
+ - [捌零捌伍工作室](https://8085studio.wordpress.com/)
